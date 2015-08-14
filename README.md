@@ -5,7 +5,7 @@
 Clusters an array of vectors into k clusters using k-means (using random initial centroids and Euclidean as the distance function).
 
 The MIT License (MIT)
-Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
+Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com><br />
 Modifications: 2015 David Tran <cdavid.tran@gmail.com>
 
 ## Usage
