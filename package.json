@@ -1,0 +1,31 @@
+{
+  "name": "cluster-kmeans",
+  "version": "1.0.0",
+  "description": "Clusters an array of vectors into k clusters using k-means (using random initial centroids and Euclidean as the distance function).",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "David Tran",
+    "email": "davidt@jam3.com",
+    "url": "https://github.com/eternallite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "beefy": "^2.1.5"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "kmeans",
+    "cluster"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/cluster-kmeans.git"
+  },
+  "homepage": "https://github.com/Jam3/cluster-kmeans",
+  "bugs": {
+    "url": "https://github.com/Jam3/cluster-kmeans/issues"
+  }
+}
