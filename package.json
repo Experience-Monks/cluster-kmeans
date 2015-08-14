@@ -1,6 +1,6 @@
 {
   "name": "cluster-kmeans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clusters an array of vectors into k clusters using k-means (using random initial centroids and Euclidean as the distance function).",
   "main": "index.js",
   "license": "MIT",
